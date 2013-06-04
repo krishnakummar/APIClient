@@ -1,0 +1,5 @@
+c:\users\krishna\documents\visual studio 2010\Projects\APIClient\APIClient\obj\Debug\ResolveAssemblyReference.cache
+c:\users\krishna\documents\visual studio 2010\Projects\APIClient\APIClient\bin\Debug\APIClient.dll
+c:\users\krishna\documents\visual studio 2010\Projects\APIClient\APIClient\bin\Debug\APIClient.pdb
+c:\users\krishna\documents\visual studio 2010\Projects\APIClient\APIClient\obj\Debug\APIClient.dll
+c:\users\krishna\documents\visual studio 2010\Projects\APIClient\APIClient\obj\Debug\APIClient.pdb
